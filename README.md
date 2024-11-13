@@ -1,0 +1,1 @@
+This repository contains the frontend design for a Movie Channel website,built with HTML,CSS, and Bootstrap.The design is fully responsive to provide an optimal viewing experience on various screen sizes.
